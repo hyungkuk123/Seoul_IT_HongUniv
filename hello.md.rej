@@ -1,4 +1,5 @@
 diff a/hello.md b/hello.md	(rejected hunks)
+<<<<<<< HEAD
 @@ -0,0 +1,8 @@
 +#hello git
 +
@@ -8,4 +9,19 @@ diff a/hello.md b/hello.md	(rejected hunks)
 +- add : �������� ���࿡ �۾����� �߰�
 +- Commit: ���̺� , �������� ������ ���ϵ��� ������ Ŀ��(== ���̺�)�� ���� �� �ִ�.
 +- push :���� ����ҿ� Ŀ���� �����Ѵ�.
+=======
+@@ -4,5 +4,9 @@
+ 
+ - Clone : ���� ����� ����
+ - add : �������� ���࿡ �۾����� �߰�
+-- Commit: ���̺� , �������� ������ ���ϵ��� ������ Ŀ��(== ���̺�)�� ���� �� �ִ�.
+-- push :���� ����ҿ� Ŀ���� �����Ѵ�.
+\ No newline at end of file
++
++
++gjwaporgopawjrgopjaopjaopgjopabopdmopvmaopmva
++gaopwmga
++garpga[pgrk[pa
++wgkrawg[pawrkgopab]]]
+>>>>>>> bf5496ea0843c385a571bf00a50434bda8da3bd2
 \ No newline at end of file
